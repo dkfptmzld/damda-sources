@@ -4,6 +4,18 @@
   "notice": "관리자가 올린 소재 목록입니다. 고른 뒤 '바로 제작'을 누르세요.",
   "items": [
     {
+      "id": "416b6b0019",
+      "url": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+      "title": "Big Buck Bunny 60fps 4K - Official Blender Foundation Short Film",
+      "description": "UHD High Frame rate version of the iconic short film by Blender, Big Buck Bunny. More info: Learn more about this UHD high frame-rate versi…",
+      "uploader": "Blender",
+      "durationSec": 635,
+      "thumbnail": "https://raw.githubusercontent.com/dkfptmzld/damda-sources/main/thumbs/416b6b0019.jpg",
+      "category": "테스트",
+      "memo": "썸네일·설명 확인용",
+      "addedAt": "2026-09-19"
+    },
+    {
       "id": "example-1",
       "url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
       "title": "(예시) Me at the zoo",
