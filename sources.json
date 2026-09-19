@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-19",
+  "notice": "관리자가 올린 소재 목록입니다. 고른 뒤 '바로 제작'을 누르세요.",
+  "items": [
+    {
+      "id": "example-1",
+      "url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "title": "(예시) Me at the zoo",
+      "category": "예시",
+      "memo": "목록이 잘 보이는지 확인하는 예시예요. 지워도 됩니다.",
+      "addedAt": "2026-09-19"
+    }
+  ]
+}
